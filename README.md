@@ -1,0 +1,1 @@
+# Deteksi-Kelengkapan-Bekendara-yolov12

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Helmet', 'Number Plate', 'Rearview Mirror']
+
+roboflow:
+  workspace: cicangoding
+  project: deteksi-perlengkapan-berkendara
+  version: 1778128176588
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cicangoding/deteksi-perlengkapan-berkendara/dataset/1778128176588
