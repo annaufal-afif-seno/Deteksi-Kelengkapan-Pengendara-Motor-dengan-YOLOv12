@@ -1,1 +1,1 @@
-# Deteksi-Kelengkapan-Bekendara-yolov12
+Motorcycle-Rider-Safety-Compliance-Detection-Using-YOLOv12
